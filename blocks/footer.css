@@ -1,0 +1,11 @@
+.footer {
+  padding: 60px 0px;
+}
+
+.footer__text {
+  color: #212121b2;
+  font-size: 16px;
+  line-height: 1.2;
+  opacity: 0.7;
+  text-align: center;
+}
